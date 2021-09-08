@@ -19,7 +19,7 @@ Above used horizontal rule...
  - Snacks and drinks
  - Electronic gadgets
 
-[AboutMe](https://github.com/SaiLavanyaP/Assignment2-Peddinti/blob/main/AboutMe.md)
+[AboutMe](AboutMe.md)
 
 
 ***
@@ -33,3 +33,10 @@ Below table gives the list of food and drink item list
 | KFC Nuggets | Maryville| $10 |
 | Monster Energy drink | Walmart| $1.5|
 | Pepsi | Walmart| $1.00|
+
+***
+
+# Pity Quotes
+>"And now that you don't have to be perfect, you can be good." —John Steinbeck
+
+>“Life is never fair, and perhaps it is a good thing for most of us that it is not.” —Oscar Wilde
