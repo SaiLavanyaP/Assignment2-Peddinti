@@ -6,9 +6,9 @@ It is one of my favourite place since childhood . **Eiffel Tower** is known for 
 ***
 
 Above used horizontal rule...
-## Directions to reach MO to paris using ordered List
+## Directions to reach MO to Paris using ordered List
 1. Take a rental car or cab to reach nearest airport i.e, Kansas from Maryville.
-2. Fly from Kansas to France Orly Airport(ORY) for about 12hours.
+2. Fly from Kansas to France Orly Airport(ORY) for about 12hours via Qatar Airways.
 3. After reaching Orly Airport, use any below mode of transport to reach Paris city center
     1. Bus
     2. Train
