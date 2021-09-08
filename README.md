@@ -14,7 +14,7 @@ Above used horizontal rule...
     2. Train
     3. Taxi
 4. I choose bus mode for better city view and will reach Paris.
-List of items to be carried to chill out while travelling
+* List of items to be carried to chill out while travelling
  - Reading novels
  - Snacks and drinks
  - Electronic gadgets
