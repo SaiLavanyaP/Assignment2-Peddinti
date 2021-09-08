@@ -19,4 +19,4 @@ Above used horizontal rule...
  - Snacks and drinks
  - Electronic gadgets
 
-[Sample](https://github.com/SaiLavanyaP/Assignment2-Peddinti/blob/main/AboutMe.md)
+[AboutMe](https://github.com/SaiLavanyaP/Assignment2-Peddinti/blob/main/AboutMe.md)
