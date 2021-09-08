@@ -20,3 +20,15 @@ Above used horizontal rule...
  - Electronic gadgets
 
 [AboutMe](https://github.com/SaiLavanyaP/Assignment2-Peddinti/blob/main/AboutMe.md)
+
+
+***
+
+# Food/Drinks List
+
+Below table gives the list of food and drink item list
+|*Name*|*Location*|*Cost*|
+| --- | --- | --- |
+| Chicken wings |Zen| $5 |
+| KFC Nuggets | Maryville| $10 |
+| Monster Energy drink | walmart| $1.5|
