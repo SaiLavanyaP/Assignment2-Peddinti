@@ -37,6 +37,6 @@ Below table gives the list of food and drink item list
 ***
 
 # Pity Quotes
->"And now that you don't have to be perfect, you can be good." —John Steinbeck
+>"And now that you don't have to be perfect, you can be good." —*John Steinbeck*
 
->“Life is never fair, and perhaps it is a good thing for most of us that it is not.” —Oscar Wilde
+>“Life is never fair, and perhaps it is a good thing for most of us that it is not.” —*Oscar Wilde*
