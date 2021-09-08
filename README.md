@@ -31,4 +31,5 @@ Below table gives the list of food and drink item list
 | --- | --- | --- |
 | Chicken wings |Zen| $5 |
 | KFC Nuggets | Maryville| $10 |
-| Monster Energy drink | walmart| $1.5|
+| Monster Energy drink | Walmart| $1.5|
+| Pepsi | Walmart| $1.00|
