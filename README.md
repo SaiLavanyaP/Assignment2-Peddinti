@@ -18,3 +18,5 @@ Above used horizontal rule...
  - Reading novels
  - Snacks and drinks
  - Electronic gadgets
+
+ ![Sample](https://github.com/SaiLavanyaP/Assignment2-Peddinti/blob/main/download.jpg)
